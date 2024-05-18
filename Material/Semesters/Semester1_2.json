@@ -1,0 +1,85 @@
+{
+  "Semester": "1",
+  "Subjects": [
+    {
+      "subject_code": "3110004",
+      "subject_name": "Basic Civil Engineering",
+      "pages": "300",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110016",
+      "subject_name": "Basic Electronics",
+      "pages": "-",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110005",
+      "subject_name": "Basic Electrical Engineering",
+      "pages": "377",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110006",
+      "subject_name": "Basic Mechanical Engineering",
+      "pages": "-",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110013",
+      "subject_name": "Engineering Graphics & Design",
+      "pages": "283",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110002",
+      "subject_name": "English",
+      "pages": "334",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110007",
+      "subject_name": "Environmental Science",
+      "pages": "183",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110014",
+      "subject_name": "Mathematics 1",
+      "pages": "880",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3110015",
+      "subject_name": "Mathematics 2",
+      "pages": "880",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    },
+     {
+      "subject_code": "3110003",
+      "subject_name": "Programming for Problem Solving",
+      "pages": "412",
+      "semester": "1 & 2",
+      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+      "extra1": "extra_info_1"
+    }
+  ]
+}
