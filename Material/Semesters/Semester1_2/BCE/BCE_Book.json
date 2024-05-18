@@ -1,0 +1,17 @@
+{
+  "Semester": "1_2",
+  "Subject_name": "Basic Civil Engineering",
+  "Subject_code": "3110004",
+  "Material": "Books",
+  "Books": [
+    {
+        "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/Semester1/BCP/BCP_book_cover.png",
+        "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+        "pages": "300",
+        "semester": "1 & 2",
+        "subject_code": "3110004",
+        "subject_name": "Basic Civil Engineering",
+        "extra1": "extra_info_book1_1",
+    }
+  ]
+}
