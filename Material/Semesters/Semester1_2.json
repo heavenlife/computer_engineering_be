@@ -1,85 +1,388 @@
 {
-  "Semester": "1",
-  "Subjects": [
+  "Semester": "1&2",
+  "Material": [
     {
-      "subject_code": "3110004",
-      "subject_name": "Basic Civil Engineering",
-      "pages": "300",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110016",
-      "subject_name": "Basic Electronics",
-      "pages": "-",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110005",
-      "subject_name": "Basic Electrical Engineering",
-      "pages": "377",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110006",
-      "subject_name": "Basic Mechanical Engineering",
-      "pages": "-",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110013",
-      "subject_name": "Engineering Graphics & Design",
-      "pages": "283",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110002",
-      "subject_name": "English",
-      "pages": "334",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110007",
-      "subject_name": "Environmental Science",
-      "pages": "183",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110014",
-      "subject_name": "Mathematics 1",
-      "pages": "880",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-    {
-      "subject_code": "3110015",
-      "subject_name": "Mathematics 2",
-      "pages": "880",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
-    },
-     {
-      "subject_code": "3110003",
-      "subject_name": "Programming for Problem Solving",
-      "pages": "412",
-      "semester": "1 & 2",
-      "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-      "extra1": "extra_info_1"
+      "Books": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "377",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1GCXi3lwggl74hm752A7Wd_yDqSSrsKcZ/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1D5x7-dP1vKFK0kSMlfTgKwO3mW65HUp0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "283",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1AF-ca4cd2MAVCHbAYFmYY0uTCGXj6Sfc/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "334",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1quGTSe41LlqJn1Y-jttfNLCkl2Jlhxsz/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "183",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1mWcEDLAjqLszoc9v0carJeOTiEiEJJGP/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1PsO3QqkvlrdmSfaLl6xqbUPYfJMb6Mt5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1-hJVXEEpkE58lZ1pmERtH_sAxxmB-MRM/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1Ux9LAdjK6buaAbnXRdF4ynBb3PQgHLwo/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "412",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1fzJtzXyxzZWz_5HxjUJwnDqdRbdaQBEu/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1Jw2d1SGxZmYUTggBsv4bkSVdLNqrYpIg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Syllabus": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "4",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1ncqY8pE18TBGXQ3fleZZi3-FVWBfLRfQ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "4",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1wGZsl7_B_MV90lz03GWAK2nxKROdY_Q2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1GCXi3lwggl74hm752A7Wd_yDqSSrsKcZ/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1fYsfyaB78k3-wKj2l0RjPDV-v1sq2KBf/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "4",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1bq3asW-vNIzwa_ZFVzcZO14sYtOvXQ--/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1QTpw5McTA8qX29wnR1dCVTn1nKRZQcJw/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1Xkco0ZZzzBGDKWLJ8eSA9m06B4qh2uoF/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1mWcEDLAjqLszoc9v0carJeOTiEiEJJGP/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1XmDy0Joi15Z3hhSnCR2ogtIVhGlJ0FBU/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1-hJVXEEpkE58lZ1pmERtH_sAxxmB-MRM/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1DmkGMdgh-cqmFILyR9Y3tuC5O_VxQ0_N/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "3",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1Ux9LAdjK6buaAbnXRdF4ynBb3PQgHLwo/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1ZuoUBPCP67PefjqbzJAyALVi7YD8PkzR/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "6",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1fzJtzXyxzZWz_5HxjUJwnDqdRbdaQBEu/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/142bsUlSH0Z2L1zHyWROMM_yeoP77ZxIi/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Papers": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://drive.google.com/file/d/1knobwVZl427QxEp1LJU22Ye5jr_5l9Gx/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://drive.google.com/file/d/1lkiyACa5CeuJyVVwtVf3iIrdBOaHChKf/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1pLBmB88h8CKt3OUdMasjRczpq7d3TFIx/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://drive.google.com/file/d/1WaIi_4vceJbaLdFpT4KTKBx660g7C8KD/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1bS3MT0LtAgtIJBEXPk715nU5tZ9-csGt/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "1 & 2",
+          "year": "SUMMER 2018",
+          "image": "https://drive.google.com/file/d/1IqTC-933O5n1CSCiRLBBOZWWA3Gqrx7k/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1BvV40wHioOgFddkDSviH231bhfedino2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "-",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "377",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "-",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "283",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "334",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "183",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "412",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "PaperSolutions": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "-",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "377",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "-",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "283",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "334",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "183",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "412",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ]
     }
   ]
 }
