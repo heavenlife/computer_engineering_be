@@ -192,7 +192,7 @@
         {
           "subject_code": "3110004",
           "subject_name": "Basic Civil Engineering",
-          "pages": "300",
+          "pages": "2",
           "semester": "1 & 2",
           "year": "WINTER 2018",
           "image": "https://drive.google.com/file/d/1WaIi_4vceJbaLdFpT4KTKBx660g7C8KD/view?usp=drive_link",
@@ -202,7 +202,7 @@
         {
           "subject_code": "3110004",
           "subject_name": "Basic Civil Engineering",
-          "pages": "300",
+          "pages": "2",
           "semester": "1 & 2",
           "year": "SUMMER 2018",
           "image": "https://drive.google.com/file/d/1IqTC-933O5n1CSCiRLBBOZWWA3Gqrx7k/view?usp=drive_link",
@@ -212,10 +212,61 @@
         {
           "subject_code": "3110016",
           "subject_name": "Basic Electronics",
-          "pages": "-",
+          "pages": "2",
           "semester": "1 & 2",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "year": "SUMMER 2023",
+          "image": "https://drive.google.com/file/d/1_gOo-Urpkjkm8WFntC1WutcPL6U-vT0l/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/111qMbVlDHH9u2BxdZOSwngXqZAMAqgwS/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://drive.google.com/file/d/10dHzHg4QWJaIpaFu2O6_Tvx8QcY-Q_rh/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1huXH0r1QAFNDySk745N5jSsEM8V91sZg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://drive.google.com/file/d/165B16wjotYAVxv8BnKrg5WoGXDwxJ0xc/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1T7TGGN56SRX9ykXbfIHb5sovRB5ZEuNE/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://drive.google.com/file/d/1UVcwmWko62t2hM38B9H1zhLFl45Zsad8/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1zgVx0FJn4_qTzZnIIDpAz_hxRCp2r0q8/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "SUMMER-2019",
+          "image": "https://drive.google.com/file/d/1AG6pMH4b22XQmTxrUcCRlKvbSPJqPiC2/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/15V1yX1RkIMKO6w7D7RsL1khYacXtj51E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://drive.google.com/file/d/1KAHOHwpa3DEI7xnSvvrTOPJTGqmeJmeH/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1CTBuR3sYBaz8nRl_xa5PgyDVNz62IDiv/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
@@ -223,6 +274,7 @@
           "subject_name": "Basic Electrical Engineering",
           "pages": "377",
           "semester": "1 & 2",
+          "year": "WINTER 2018",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
           "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
           "extra1": "extra_info_1"
