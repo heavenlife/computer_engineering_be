@@ -1,0 +1,228 @@
+{
+  "Semester": "1&2",
+  "Papers": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://drive.google.com/file/d/1knobwVZl427QxEp1LJU22Ye5jr_5l9Gx/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://drive.google.com/file/d/1lkiyACa5CeuJyVVwtVf3iIrdBOaHChKf/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1pLBmB88h8CKt3OUdMasjRczpq7d3TFIx/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://drive.google.com/file/d/1WaIi_4vceJbaLdFpT4KTKBx660g7C8KD/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1bS3MT0LtAgtIJBEXPk715nU5tZ9-csGt/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2018",
+          "image": "https://drive.google.com/file/d/1IqTC-933O5n1CSCiRLBBOZWWA3Gqrx7k/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1BvV40wHioOgFddkDSviH231bhfedino2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2023",
+          "image": "https://drive.google.com/file/d/1_gOo-Urpkjkm8WFntC1WutcPL6U-vT0l/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/111qMbVlDHH9u2BxdZOSwngXqZAMAqgwS/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://drive.google.com/file/d/10dHzHg4QWJaIpaFu2O6_Tvx8QcY-Q_rh/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1huXH0r1QAFNDySk745N5jSsEM8V91sZg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://drive.google.com/file/d/165B16wjotYAVxv8BnKrg5WoGXDwxJ0xc/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1T7TGGN56SRX9ykXbfIHb5sovRB5ZEuNE/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://drive.google.com/file/d/1UVcwmWko62t2hM38B9H1zhLFl45Zsad8/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1zgVx0FJn4_qTzZnIIDpAz_hxRCp2r0q8/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "SUMMER-2019",
+          "image": "https://drive.google.com/file/d/1AG6pMH4b22XQmTxrUcCRlKvbSPJqPiC2/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/15V1yX1RkIMKO6w7D7RsL1khYacXtj51E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110016",
+          "subject_name": "Basic Electronics",
+          "pages": "1",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://drive.google.com/file/d/1KAHOHwpa3DEI7xnSvvrTOPJTGqmeJmeH/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1CTBuR3sYBaz8nRl_xa5PgyDVNz62IDiv/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2023",
+          "image": "https://drive.google.com/file/d/1n3IUwSxglHI-oOu9Ykr3Y47koIxrWDCB/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1g6ZPtx-6_NuJgVcdY9_MInJpDIRAo87a/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://drive.google.com/file/d/1gzaHmVWGAnEI1EeP9guXHpnsrxzS_rWo/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1m5AIrIys_tMFPIEqZ09f0vfb88JLT3KB/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2021",
+          "image": "https://drive.google.com/file/d/1sfIByB8V38MVMHln9osWYP3EjBG7mH-7/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/12aEBQIIq0G-iEhnsi2zn3s00tJI19fc4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2020",
+          "image": "https://drive.google.com/file/d/18v7o5tsIaf8j5fq7kb-ON3hXhXr0lot7/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/10WhQDCl-pneGcxXDRYB1gVKEj3DrbXy6/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://drive.google.com/file/d/1nfHDSkHFMtPS7-D129BYTIl3m5KSmqun/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1zFZ3k7kQAaM0JK7Em2urBAVXq5d_N4y_/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://drive.google.com/file/d/1E0ywM9Vh05Uc3hT6-hzYSZ8ZXvq3UE0F/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1rWxE1ILlqoePZct3ZQsDrnbrP7FnKJNh/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "-",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "283",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "334",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "183",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "412",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+}
