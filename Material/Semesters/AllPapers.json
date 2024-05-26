@@ -360,7 +360,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "SUMMER 2023",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_S2023.png",
           "pdf": "https://drive.google.com/file/d/1cXPmUu6JfjmYhNsRsB8qOA43AtFlQJKj/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -371,7 +371,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "WINTER 2022",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_W2022.png",
           "pdf": "https://drive.google.com/file/d/1g0bBi7ax8_2HZESCvnWJxiHCWAlLkwhz/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -393,7 +393,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "WINTER 2021",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_S2022.png",
           "pdf": "https://drive.google.com/file/d/1z-hNBZn1f5352ytXtzE7lnAvPhT3W8_d/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -404,7 +404,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "SUMMER 2020",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_S2020.png",
           "pdf": "https://drive.google.com/file/d/1QMKBeW91El94oTn6X-J0HABJa8_ZV8P-/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -415,7 +415,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "WINTER 2019",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_W2019.png",
           "pdf": "https://drive.google.com/file/d/1HPu5aZJK2_5qH8F2sK0UAZNgpEycGQ4G/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -426,7 +426,7 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "SUMMER 2019",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_S2019.png",
           "pdf": "https://drive.google.com/file/d/1LY7dqvZ9uoPFnL4hklRaxLz1nbdduNpC/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -437,18 +437,74 @@
           "short_form": "English",
           "semester": "1 & 2",
           "year": "WINTER 2018",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/ENG_W2018.png",
           "pdf": "https://drive.google.com/file/d/14_8ivAHbvDcEdnhGwajAV9E_P2E-Z5PL/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
           "subject_code": "3110007",
           "subject_name": "Environmental Science",
-          "pages": "183",
+          "pages": "3",
           "short_form": "ES",
           "semester": "1 & 2",
+          "year": "SUMMER 2023",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1Exu9sp24ITbOFZnUCgu_MS8FPj8Dxbdu/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "1",
+          "short_form": "ES",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1crOJYH34b2LRM-41lTLfBLZmsikw48Kp/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "1",
+          "short_form": "ES",
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1cABsT1CzSkosP2dPtqIOM_5IoCxDP24J/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "2",
+          "short_form": "ES",
+          "semester": "1 & 2",
+          "year": "SUMMER 2020",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1NO62ppR1I6_ricGjyvWwDWnDxyDnt1t6/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "1",
+          "short_form": "ES",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1XRvVHAK-_0vdt0AwL4C9j0iHLV7pqSzg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "1",
+          "short_form": "ES",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1jcKTdCX48VTAXrb_MssGNTBETfa3tPtC/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
