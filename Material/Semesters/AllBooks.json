@@ -7,7 +7,7 @@
           "pages": "300",
           "short_form": "BCE",
           "semester": "1 & 2",
-          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE.png",
           "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -17,7 +17,7 @@
           "pages": "377",
           "short_form": "BEE",
           "semester": "1 & 2",
-          "image": "https://drive.google.com/file/d/1GCXi3lwggl74hm752A7Wd_yDqSSrsKcZ/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BEE/BEE.png",
           "pdf": "https://drive.google.com/file/d/1D5x7-dP1vKFK0kSMlfTgKwO3mW65HUp0/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -27,7 +27,7 @@
           "pages": "283",
           "short_form": "EGD",
           "semester": "1 & 2",
-          "image": "-",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/EGD/EGD.jpg",
           "pdf": "https://drive.google.com/file/d/1AF-ca4cd2MAVCHbAYFmYY0uTCGXj6Sfc/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -37,7 +37,7 @@
           "pages": "334",
           "short_form": "English",
           "semester": "1 & 2",
-          "image": "-",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/English/English.jpg",
           "pdf": "https://drive.google.com/file/d/1quGTSe41LlqJn1Y-jttfNLCkl2Jlhxsz/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -47,7 +47,7 @@
           "pages": "183",
           "short_form": "ES",
           "semester": "1 & 2",
-          "image": "https://drive.google.com/file/d/1mWcEDLAjqLszoc9v0carJeOTiEiEJJGP/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES.jpg",
           "pdf": "https://drive.google.com/file/d/1PsO3QqkvlrdmSfaLl6xqbUPYfJMb6Mt5/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -57,7 +57,7 @@
           "pages": "880",
           "short_form": "Maths 1",
           "semester": "1 & 2",
-          "image": "https://drive.google.com/file/d/1-hJVXEEpkE58lZ1pmERtH_sAxxmB-MRM/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/Maths_1/Mathematics_1.jpg",
           "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -67,7 +67,7 @@
           "pages": "880",
           "short_form": "Maths 2",
           "semester": "1 & 2",
-          "image": "https://drive.google.com/file/d/1Ux9LAdjK6buaAbnXRdF4ynBb3PQgHLwo/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/Maths_2/Mathematics_2.jpg",
           "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -76,7 +76,8 @@
           "subject_name": "Programming for Problem Solving",
           "pages": "412",
           "short_form": "PPS",
-          "image": "https://drive.google.com/file/d/1fzJtzXyxzZWz_5HxjUJwnDqdRbdaQBEu/view?usp=drive_link",
+          "semester": "1 & 2",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/PPS/PPS.jpg",
           "pdf": "https://drive.google.com/file/d/1Jw2d1SGxZmYUTggBsv4bkSVdLNqrYpIg/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
