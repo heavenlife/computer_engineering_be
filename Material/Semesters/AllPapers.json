@@ -448,7 +448,7 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "SUMMER 2023",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_S2023.png",
           "pdf": "https://drive.google.com/file/d/1Exu9sp24ITbOFZnUCgu_MS8FPj8Dxbdu/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -459,7 +459,7 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "WINTER 2022",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_W2022.png",
           "pdf": "https://drive.google.com/file/d/1crOJYH34b2LRM-41lTLfBLZmsikw48Kp/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -470,7 +470,7 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "SUMMER 2022",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_S2022.png",
           "pdf": "https://drive.google.com/file/d/1cABsT1CzSkosP2dPtqIOM_5IoCxDP24J/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -481,7 +481,7 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "SUMMER 2020",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_S2020.png",
           "pdf": "https://drive.google.com/file/d/1NO62ppR1I6_ricGjyvWwDWnDxyDnt1t6/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -492,7 +492,7 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "WINTER 2019",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_W2019.png",
           "pdf": "https://drive.google.com/file/d/1XRvVHAK-_0vdt0AwL4C9j0iHLV7pqSzg/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -503,18 +503,96 @@
           "short_form": "ES",
           "semester": "1 & 2",
           "year": "SUMMER 2019",
-          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/ES/ES_S2019.png",
           "pdf": "https://drive.google.com/file/d/1jcKTdCX48VTAXrb_MssGNTBETfa3tPtC/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
           "subject_code": "3110014",
           "subject_name": "Mathematics 1",
-          "pages": "880",
+          "pages": "2",
           "short_form": "Maths 1",
           "semester": "1 & 2",
+          "year": "SUMMER 2023",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1_Vlbc-7eGQ0297t_sWFaBcdNE3z5W4kN/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1_IPf4GFy9YrfUqogLnQaT14qEUFAN3y4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1Q09YiZ9rWEzR7bG6adUMObF2hWo-cFjw/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "3",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1lhMxtDjYO30n9dGVqv7qA6MO0Z8EoZfB/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1_0hcmCedomLnfVBtGM3L3419mfI4QZGU/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1iMLoBC-jXN9YLQXh5IwMAz_zuuqejoX6/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1b33NuzxDaMyI40nIVOpoeRzK21_8w0k0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "2",
+          "short_form": "Maths 1",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1rvW2WoBmTBndf6fiWXdJhKobMkYwlDc5/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
