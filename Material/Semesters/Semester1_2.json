@@ -76,6 +76,80 @@
           "extra1": "extra_info_1"
         }
       ],
+      "ImpQuestion": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110005",
+          "subject_name": "Basic Electrical Engineering",
+          "pages": "377",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1GCXi3lwggl74hm752A7Wd_yDqSSrsKcZ/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1D5x7-dP1vKFK0kSMlfTgKwO3mW65HUp0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110013",
+          "subject_name": "Engineering Graphics & Design",
+          "pages": "283",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1AF-ca4cd2MAVCHbAYFmYY0uTCGXj6Sfc/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110002",
+          "subject_name": "English",
+          "pages": "334",
+          "semester": "1 & 2",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1quGTSe41LlqJn1Y-jttfNLCkl2Jlhxsz/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110007",
+          "subject_name": "Environmental Science",
+          "pages": "183",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1mWcEDLAjqLszoc9v0carJeOTiEiEJJGP/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1PsO3QqkvlrdmSfaLl6xqbUPYfJMb6Mt5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110014",
+          "subject_name": "Mathematics 1",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1-hJVXEEpkE58lZ1pmERtH_sAxxmB-MRM/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "880",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1Ux9LAdjK6buaAbnXRdF4ynBb3PQgHLwo/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1gyD0rUrjrgBTrfz-bvWQkPU3wHSb_z7l/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "412",
+          "semester": "1 & 2",
+          "image": "https://drive.google.com/file/d/1fzJtzXyxzZWz_5HxjUJwnDqdRbdaQBEu/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1Jw2d1SGxZmYUTggBsv4bkSVdLNqrYpIg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
       "Syllabus": [
         {
           "subject_code": "3110004",
