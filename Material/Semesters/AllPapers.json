@@ -598,21 +598,122 @@
         {
           "subject_code": "3110015",
           "subject_name": "Mathematics 2",
-          "pages": "880",
+          "pages": "2",
           "short_form": "Maths 2",
           "semester": "1 & 2",
+          "year": "SUMMER 2023",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1WJpVsA3DKNkFlOf_eEz2XeeA8hhldeCz/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "2",
+          "short_form": "Maths 2",
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1ODZfVIVmJEOYKtfscE2ISMAvIEBnVE02/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "2",
+          "short_form": "Maths 2",
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1vcWnQ7k2dcrPMyiOdRSDRCwZr9BZvZup/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "2",
+          "short_form": "Maths 2",
+          "semester": "1 & 2",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1QjRALOE-BwFJ9e8xzcbS_IYCEBtLwKlV/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110015",
+          "subject_name": "Mathematics 2",
+          "pages": "2",
+          "short_form": "Maths 2",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1YfeFqpxHlcnClvsqW7Fbz7TKnX_tCulB/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
           "subject_code": "3110003",
           "subject_name": "Programming for Problem Solving",
-          "pages": "412",
+          "pages": "2",
           "short_form": "PPS",
           "semester": "1 & 2",
+          "year": "SUMMER 2022",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1Zn3FE1raaHjV4UggVoMi7FUeWkwf_l_u/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "2",
+          "short_form": "PPS",
+          "semester": "1 & 2",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1aQh04w2GAFL3T5VtO1slUrWNLAWZhY7w/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "2",
+          "short_form": "PPS",
+          "semester": "1 & 2",
+          "year": "SUMMER 2020",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1Xs_gQaFcN_MhTKm9IR2Rj2hlfauUwfLj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "2",
+          "short_form": "PPS",
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1X23uzv4iW1DFEf4DzlrvwWWQ0_SX1GG3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "1",
+          "short_form": "PPS",
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1QczbrAS7qjQ6PJ3fk6AHfPKnxmDy8zpk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "1",
+          "short_form": "PPS",
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/12l3rYlvixd1UEmEAlE67enLkSfYI_XiX/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ]
