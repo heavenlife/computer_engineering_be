@@ -180,11 +180,89 @@
         {
           "subject_code": "3110006",
           "subject_name": "Basic Mechanical Engineering",
-          "pages": "-",
+          "pages": "2",
           "short_form": "BME", 
           "semester": "1 & 2",
+          "year": "SUMMER 2023",
           "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1fMQYRGo1Ix1l5ts2L_nU4aHScaYlrkfe/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1825fGeUnlL4YulRzfkc8jzk2fkDn8PCK/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1CHNGO5WbYRnCIU-_6uGG_cu0-fDB4qDB/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1v4tu0poOltMtZ9RuVVBWNojjR0gn8h2f/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "SUMMER 2020",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/16Z6TdhaVSC_HyptR5Gs5GZ3P5xwWXbQ9/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1lSMG0alAK7bzoMVwcmS3y-qS2W8QXZZa/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "SUMMER 2019",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1wdB759iwnuuT2nOvdbvXMBxSxnsPMCkT/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110006",
+          "subject_name": "Basic Mechanical Engineering",
+          "pages": "2",
+          "short_form": "BME", 
+          "semester": "1 & 2",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/Comp_Diploma_GTU/Material/Semesters/dummy_book.jpg",
+          "pdf": "https://drive.google.com/file/d/1RlhtycTRiBcGK8zEUr_P6VVVvekiwWcN/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
