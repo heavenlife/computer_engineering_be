@@ -1,0 +1,251 @@
+{
+  "Semester": "3",
+  "Material": [
+    {
+      "Books": [
+        {
+          "subject_code": "3130703",
+          "subject_name": "Database Management Systems",
+          "pages": "180",
+          "short_form": "DBMS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS.png",
+          "pdf": "https://drive.google.com/file/d/1u5I5QxXg7My7lLySard2JSNwog2qPIom/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130702",
+          "subject_name": "Data Structures",
+          "pages": "421",
+          "short_form": "DS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS.png",
+          "pdf": "https://drive.google.com/file/d/1J8XudfJ02iihQ8Hs7qWgSIrUQijR-KgO/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130004",
+          "subject_name": "Effective Technical Communication",
+          "pages": "149",
+          "short_form": "ETC",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC.png",
+          "pdf": "https://drive.google.com/file/d/1WLCDm09SjxN96HwRtCR266yDCtgNiqi3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130007",
+          "subject_name": "Indian Constitution",
+          "pages": "83",
+          "short_form": "IC",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC.jpeg",
+          "pdf": "https://drive.google.com/file/d/1EYf8f1T2w2-XppQeyT-XikmQqz5xvDcX/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 1",
+          "pages": "17",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_1.png",
+          "pdf": "https://drive.google.com/file/d/1QGQxS76lHym8PDJF2xqe-2Z_NbZbOa7Z/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 2",
+          "pages": "11",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_2.png",
+          "pdf": "https://drive.google.com/file/d/1Tysi-aY7snFT_EZG2n2vog1brE3qnEvj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 3",
+          "pages": "15",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_3.png",
+          "pdf": "https://drive.google.com/file/d/15vg0q2Bv7_8z5MiqyEhAI75Hn1dTZv7K/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 4",
+          "pages": "9",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_4.png",
+          "pdf": "https://drive.google.com/file/d/1OFd-eXiGMZfxT032sqo9KRJACZulbnMb/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 5",
+          "pages": "9",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_5.png",
+          "pdf": "https://drive.google.com/file/d/1G0WSkkYLbTeSZ9nfRSIndVN62QQXxWyS/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 6",
+          "pages": "13",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_6.png",
+          "pdf": "https://drive.google.com/file/d/1Ale_tI3ItniHQ8wwUW87sC4K5UHesoa5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 7",
+          "pages": "12",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_7.png",
+          "pdf": "https://drive.google.com/file/d/1vTRNXJqNn0Xwfc0I6651Ve7kWQmBBIyq/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 8",
+          "pages": "22",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_8.png",
+          "pdf": "https://drive.google.com/file/d/1_eClDTmef9LbZ2ukP6DkXwDWRhY_lL3A/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 9",
+          "pages": "6",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_9.png",
+          "pdf": "https://drive.google.com/file/d/1LrfpHo-bgxa8aJdPG4dBZpJKpMEUenP0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 10",
+          "pages": "17",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_10.png",
+          "pdf": "https://drive.google.com/file/d/1tEuvnnUnVXdP1vF0GqCUxdDDpIzGDGj_/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "ImpQuestion": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Syllabus": [
+        {
+          "subject_code": "3130703",
+          "subject_name": "Database Management Systems",
+          "pages": "3",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS.png",
+          "pdf": "https://drive.google.com/file/d/1qBGcuxlloVINf39hYaT6YFDocgDd34p3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals",
+          "pages": "4",
+          "semester": "3",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1bjplO1sLvzZXobVj3eDIYIiognCF58aE/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130702",
+          "subject_name": "Data Structures",
+          "pages": "3",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1AYL4PwYSZTdwSOsL8RBB1HeiytG66vW6/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130004",
+          "subject_name": "Effective Technical Communication",
+          "pages": "3",
+          "semester": "3",
+          "image": "-",
+          "pdf": "https://drive.google.com/drive/folders/1yUJn9ZPrlz_kx78sjXwTyY2piYs5h-QZ?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130007",
+          "subject_name": "Indian Constitution",
+          "pages": "2",
+          "semester": "3",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1myyUpxe0KrZv1-9D-zOe2qtNVJjxObBr/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics",
+          "pages": "3",
+          "semester": "3",
+          "image": "-",
+          "pdf": "https://drive.google.com/file/d/1PgsIsQlIUzPRMHn7xOW5CtC3guGqxjHy/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Papers": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "short_form": "BCE", 
+          "semester": "3",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE_W2019.png",
+          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3110003",
+          "subject_name": "Programming for Problem Solving",
+          "pages": "1",
+          "short_form": "PPS",
+          "semester": "3",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/PPS/PPS_W2018.png",
+          "pdf": "https://drive.google.com/file/d/12l3rYlvixd1UEmEAlE67enLkSfYI_XiX/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "PaperSolutions": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ]
+    }
+  ]
+}
