@@ -80,6 +80,146 @@
           "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/PPS/PPS.jpg",
           "pdf": "https://drive.google.com/file/d/1Jw2d1SGxZmYUTggBsv4bkSVdLNqrYpIg/view?usp=drive_link",
           "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130703",
+          "subject_name": "Database Management Systems",
+          "pages": "180",
+          "short_form": "DBMS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1u5I5QxXg7My7lLySard2JSNwog2qPIom/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130702",
+          "subject_name": "Data Structures",
+          "pages": "421",
+          "short_form": "DS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1J8XudfJ02iihQ8Hs7qWgSIrUQijR-KgO/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130004",
+          "subject_name": "Effective Technical Communication",
+          "pages": "149",
+          "short_form": "ETC",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1WLCDm09SjxN96HwRtCR266yDCtgNiqi3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130007",
+          "subject_name": "Indian Constitution",
+          "pages": "83",
+          "short_form": "IC",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1EYf8f1T2w2-XppQeyT-XikmQqz5xvDcX/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 1",
+          "pages": "17",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1QGQxS76lHym8PDJF2xqe-2Z_NbZbOa7Z/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 2",
+          "pages": "11",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1Tysi-aY7snFT_EZG2n2vog1brE3qnEvj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 3",
+          "pages": "15",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/15vg0q2Bv7_8z5MiqyEhAI75Hn1dTZv7K/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 4",
+          "pages": "9",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1OFd-eXiGMZfxT032sqo9KRJACZulbnMb/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 5",
+          "pages": "9",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1G0WSkkYLbTeSZ9nfRSIndVN62QQXxWyS/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 6",
+          "pages": "13",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1Ale_tI3ItniHQ8wwUW87sC4K5UHesoa5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 7",
+          "pages": "12",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1vTRNXJqNn0Xwfc0I6651Ve7kWQmBBIyq/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 8",
+          "pages": "22",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1_eClDTmef9LbZ2ukP6DkXwDWRhY_lL3A/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 9",
+          "pages": "6",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1LrfpHo-bgxa8aJdPG4dBZpJKpMEUenP0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics Chapter 10",
+          "pages": "17",
+          "short_form": "PAS",
+          "semester": "3",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1tEuvnnUnVXdP1vF0GqCUxdDDpIzGDGj_/view?usp=drive_link",
+          "extra1": "extra_info_1"
         }
       ]
 }
