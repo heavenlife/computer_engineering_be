@@ -220,6 +220,56 @@
           "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_10.png",
           "pdf": "https://drive.google.com/file/d/1tEuvnnUnVXdP1vF0GqCUxdDDpIzGDGj_/view?usp=drive_link",
           "extra1": "extra_info_1"
-        }
+        },
+        {
+          "subject_code": "3140707",
+          "subject_name": "Computer Organization & Architecture",
+          "pages": "258",
+          "short_form": "COA",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/COA/COA.png",
+          "pdf": "https://drive.google.com/file/d/1Qx5-KKL_lNoGN_vcy3quJI7kU6YomJTD/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140708",
+          "subject_name": "Discrete Mathematics",
+          "pages": "358",
+          "short_form": "DM",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/DM/DM.png",
+          "pdf": "https://drive.google.com/file/d/1gLKCaU4UiNiHHT2iRSUSWJRoFEIfEt7M/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140705",
+          "subject_name": "Object Oriented Programming -I",
+          "pages": "251",
+          "short_form": "OOP",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/OOP/OOP.png",
+          "pdf": "https://drive.google.com/file/d/1i6NI1yxJaaBBkYSo8ccqKaU2nu7WAPDH/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140702",
+          "subject_name": "Operating System",
+          "pages": "219",
+          "short_form": "OS",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/OS/OS.png",
+          "pdf": "https://drive.google.com/file/d/128RMlxi3tl4S1YzwHDUJj71FU3f9lXFi/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140709",
+          "subject_name": "PRINCIPLES OF ECONOMICS AND MANAGEMENT",
+          "pages": "115",
+          "short_form": "PEM",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/PEM/PEM.png",
+          "pdf": "https://drive.google.com/file/d/12GzUCysxmXbalKBIffyE5VDe5M7x6Vnc/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
       ]
 }
