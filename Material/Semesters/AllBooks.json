@@ -270,6 +270,56 @@
           "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/PEM/PEM.png",
           "pdf": "https://drive.google.com/file/d/12GzUCysxmXbalKBIffyE5VDe5M7x6Vnc/view?usp=drive_link",
           "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "pages": "361",
+          "short_form": "ADA",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA.png",
+          "pdf": "https://drive.google.com/file/d/1wY2Hq_8OV7SR8Yt82q3z6OUx0tfyaxL5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160002",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "79",
+          "short_form": "CPDP",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP.png",
+          "pdf": "https://drive.google.com/file/d/11yM75l96aNYLg5AjdFoZkaU7eTU9UJHJ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "58",
+          "short_form": "PDS",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS.png",
+          "pdf": "https://drive.google.com/file/d/1whyz7Xs8ESFCKxrKhVlfmgHnpozPr9zf/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140709",
+          "subject_name": "Professional Ethics",
+          "pages": "119",
+          "short_form": "PE",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PE/PE.png",
+          "pdf": "https://drive.google.com/file/d/1pbg01ryGe5afGUhBBeAiDQgXa2tr3Byq/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150711",
+          "subject_name": "SOFTWARE ENGINEERING",
+          "pages": "234",
+          "short_form": "SE",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/SE/SE.png",
+          "pdf": "https://drive.google.com/file/d/1VIvq_vD_ZmcXDtF4bvb-l6L9yA92cUJ9/view?usp=drive_link",
+          "extra1": "extra_info_1"
         }
       ]
 }
