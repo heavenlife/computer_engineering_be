@@ -1,0 +1,150 @@
+{
+  "Semester": "7",
+  "Material": [
+    {
+      "Books": [
+        {
+          "subject_code": "3150703",
+          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "pages": "361",
+          "short_form": "ADA",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA.png",
+          "pdf": "https://drive.google.com/file/d/1wY2Hq_8OV7SR8Yt82q3z6OUx0tfyaxL5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160002",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "79",
+          "short_form": "CPDP",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP.png",
+          "pdf": "https://drive.google.com/file/d/11yM75l96aNYLg5AjdFoZkaU7eTU9UJHJ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "58",
+          "short_form": "PDS",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS.png",
+          "pdf": "https://drive.google.com/file/d/1whyz7Xs8ESFCKxrKhVlfmgHnpozPr9zf/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140709",
+          "subject_name": "Professional Ethics",
+          "pages": "119",
+          "short_form": "PE",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PE/PE.png",
+          "pdf": "https://drive.google.com/file/d/1pbg01ryGe5afGUhBBeAiDQgXa2tr3Byq/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150711",
+          "subject_name": "SOFTWARE ENGINEERING",
+          "pages": "234",
+          "short_form": "SE",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/SE/SE.png",
+          "pdf": "https://drive.google.com/file/d/1VIvq_vD_ZmcXDtF4bvb-l6L9yA92cUJ9/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "ImpQuestion": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Syllabus": [
+         {
+          "subject_code": "3150703",
+          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "pages": "3",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "2",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1xiQ70UNAR0_TCSmR7ITIa9XWAVo-OdRC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160002",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "4",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1Ox3oKv1w-6bt6EKT3fWtGgbUn3IXPcLa/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "4",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150709",
+          "subject_name": "Professional Ethics",
+          "pages": "2",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PE/PE_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1MLHGCau0pGU9E4-05_s8YHCDYv5hb7JA/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150711",
+          "subject_name": "SOFTWARE ENGINEERING",
+          "pages": "7",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/SE/SE_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Papers": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "short_form": "BCE", 
+          "semester": "3",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE_W2019.png",
+          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "PaperSolutions": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ]
+    }
+  ]
+}
