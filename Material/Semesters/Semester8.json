@@ -1,0 +1,65 @@
+{
+  "Semester": "8",
+  "Material": [
+    {
+      "Books": [
+        {
+          "subject_code": "3150703",
+          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "pages": "361",
+          "short_form": "ADA",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA.png",
+          "pdf": "https://drive.google.com/file/d/1wY2Hq_8OV7SR8Yt82q3z6OUx0tfyaxL5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "ImpQuestion": [
+        {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Syllabus": [
+         {
+          "subject_code": "3150703",
+          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "pages": "3",
+          "semester": "5",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "Papers": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "1",
+          "short_form": "BCE", 
+          "semester": "3",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE_W2019.png",
+          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ],
+      "PaperSolutions": [
+         {
+          "subject_code": "3110004",
+          "subject_name": "Basic Civil Engineering",
+          "pages": "300",
+          "semester": "3",
+          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
+          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
+      ]
+    }
+  ]
+}
