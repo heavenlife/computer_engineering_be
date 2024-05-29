@@ -55,7 +55,42 @@
         }
       ],
       "ImpQuestion": [
-      
+        {
+          "subject_code": "3140707",
+          "subject_name": "Computer Organization & Architecture",
+          "pages": "12",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/COA/COA_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1hFxLcGtDoPdUMHkl4dPmxtax7YVu0zzZ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140708",
+          "subject_name": "Discrete Mathematics",
+          "pages": "3",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DM/DM_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1xRSOQAkpvs3cJ2KaW6dGQXqXnFCZi7nO/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140705",
+          "subject_name": "Object Oriented Programming -I",
+          "pages": "10",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/OOP/OOP_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1-zqyQ9PBm9TckZ5fiRMvJuCp5GC_mqwa/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140702",
+          "subject_name": "Operating System",
+          "pages": "10",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/OS/OS_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1kY2XPngvdZjYR7KjlKJ4mrR8BcUUSGvA/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ],
       "Syllabus": [
          {
