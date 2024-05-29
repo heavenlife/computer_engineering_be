@@ -59,12 +59,48 @@
       ],
       "Syllabus": [
          {
-          "subject_code": "3150703",
-          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
+          "subject_code": "3140707",
+          "subject_name": "Computer Organization & Architecture",
           "pages": "3",
-          "semester": "5",
-          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_Syllabus.png",
-          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/COA/COA_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1FNnmTPbNt-vHFpa96oW5ARD8WwyWCnO4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140708",
+          "subject_name": "Discrete Mathematics",
+          "pages": "3",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/DM/DM_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1KlEmY6faVQ9Zh3_LtjgwV3CkjEWGsO4V/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140705",
+          "subject_name": "Object Oriented Programming -I",
+          "pages": "5",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/OOP/OOP_Syllabus.jpg",
+          "pdf": "https://drive.google.com/file/d/1LneYfaEOjh_h3p5g1dRplGpYy2UwhcHL/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140702",
+          "subject_name": "Operating System",
+          "pages": "3",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/OS/OS_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1UHC8sbzzSJ-3hlFSbMl9dVwkRtgD9Mwk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3140709",
+          "subject_name": "PRINCIPLES OF ECONOMICS AND MANAGEMENT",
+          "pages": "2",
+          "semester": "4",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_4/PEM/PEM_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/123WcGF3HyLNyPa4cO7B79twgpn1SfKSb/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ],
