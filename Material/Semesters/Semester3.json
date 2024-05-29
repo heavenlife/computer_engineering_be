@@ -146,12 +146,120 @@
       ],
       "ImpQuestion": [
         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
-          "pages": "300",
+          "subject_code": "3130703",
+          "subject_name": "Database Management Systems",
+          "pages": "24",
           "semester": "3",
-          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_Imp.png",
+          "pdf": "https://drive.google.com/file/d/177zP_H0i0RtGTQ6_1AasWH4oHurpZPWa/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 1",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1xo9llh0hj7Xw-YYpwDc_r8JbRVS2_W0r/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 2",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1Lf3y8pXM6jAnse4AXQJ_dAcflV7QEuBk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 3",
+          "pages": "4",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1vjeZ7T6Bsl6tU0Ec_rgaYN9AS5tZ4Z73/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 4",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1-UlcEKRS8ORfKX-S63Pk-RSMUJ_YMyps/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+         {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 5",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/13fwVZp-nlkK1hq7Lpu_yB9funIWfBcP-/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 6",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1JIWYdctT1lx2me8zDy92JPd95LmBHGoZ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 7",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1Tl3F0QfHRgF4XNVT26f7-ZZ2VJh-LEd9/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130704",
+          "subject_name": "Digital Fundamentals UNIT 8",
+          "pages": "1",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1Liud8amK7QxgzaKAQmEw48zCWrJQj6G5/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130702",
+          "subject_name": "Data Structures",
+          "pages": "11",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1S4LqcbmP0_lZDxZr2R26AwedI4Y8VBRN/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130004",
+          "subject_name": "Effective Technical Communication",
+          "pages": "10",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1tu31ERCsgPlPz9vtZQn9jiCtFNzpzkcg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130007",
+          "subject_name": "Indian Constitution",
+          "pages": "68",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_Imp.png",
+          "pdf": "https://drive.google.com/file/d/15TRKLpUrlqlobjTRPIm3pHp1vUmMQot8/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3130006",
+          "subject_name": "Probability and Statistics",
+          "pages": "10",
+          "semester": "3",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_Imp.png",
+          "pdf": "https://drive.google.com/file/d/1dUDe708v4iF27yd1O4BH5FrXb75llMxh/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ],
@@ -236,15 +344,7 @@
         }
       ],
       "PaperSolutions": [
-         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
-          "pages": "300",
-          "semester": "3",
-          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
-          "extra1": "extra_info_1"
-        }
+    
       ]
     }
   ]
