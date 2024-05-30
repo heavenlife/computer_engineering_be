@@ -327,7 +327,7 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "SUMMER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_S2020.png",
           "pdf": "https://drive.google.com/file/d/16i61wWQseN5Msz1kV6-l8Q3M1fPIO9dv/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -338,7 +338,7 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_S2021.png",
           "pdf": "https://drive.google.com/file/d/1McKkLAcksu_p2JWwY5jcozkKhnW3tCGi/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -349,7 +349,7 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_S2022.png",
           "pdf": "https://drive.google.com/file/d/1BOYxh9g0nqZRUeUsc4F2QFap0fBXKwl_/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -360,7 +360,7 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_W2019.png",
           "pdf": "https://drive.google.com/file/d/1KCDMOb9woH1opN8wJQBmqRZL2OevG_q8/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -371,7 +371,7 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_W2020.png",
           "pdf": "https://drive.google.com/file/d/1CZawpGRFwLrNTLAH-Z-GzWt_S1EGlefw/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -382,19 +382,8 @@
           "short_form": "DBMS",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DBMS/DBMS_W2021.png",
           "pdf": "https://drive.google.com/file/d/1OFSt1jhOeJW8U6Qj-Kly5oU92bYFNEFm/view?usp=drive_link",
-          "extra1": "extra_info_1"
-        },
-        {
-          "subject_code": "3130703",
-          "subject_name": "Database Management System",
-          "pages": "1",
-          "short_form": "DBMS",
-          "semester": "3",
-          "year": "SUMMER 2020",
-          "image": "",
-          "pdf": "https://drive.google.com/file/d/1rmlguJ2UsJrynF6fboFAtHpi05Y_dUmR/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
         {
@@ -404,7 +393,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "SUMMER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_S2020.png",
           "pdf": "https://drive.google.com/file/d/1R7ni5Q0mz55B0qwfT8cd1-KXyHZnziID/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -415,7 +404,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_S2021.png",
           "pdf": "https://drive.google.com/file/d/1HDi64O2OrhLCdD9m17EV5gGyeysXRqZH/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -426,7 +415,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_S2022.png",
           "pdf": "https://drive.google.com/file/d/1Lq9CEY2sSKddLc_XQyKwflpvpGHG38pg/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -437,7 +426,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_W2019.png",
           "pdf": "https://drive.google.com/file/d/1aYZz9LeE9U6nlHIPCPCvMSDxNyHmZQgN/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -448,7 +437,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_W2020.png",
           "pdf": "https://drive.google.com/file/d/1I39chSStckLyR-vq2oxoQz93dIYR3JXJ/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -459,7 +448,7 @@
           "short_form": "DF",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DF/DF_W2021.png",
           "pdf": "https://drive.google.com/file/d/1UYmV-1q3R5Ovy4orNE4VQyiZnIGOnkLe/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -470,7 +459,7 @@
           "short_form": "DS",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_S2022.png",
           "pdf": "https://drive.google.com/file/d/1yaqJw1pqHNKETpyyxpzBM6zyCFXgkflv/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -481,7 +470,7 @@
           "short_form": "DS",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_S2021.png",
           "pdf": "https://drive.google.com/file/d/1rNltCpTmqcNmtNPtsbEdo-q1OArXWl0I/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -491,19 +480,8 @@
           "pages": "2",
           "short_form": "DS",
           "semester": "3",
-          "year": "SUMMER 2022",
-          "image": "",
-          "pdf": "https://drive.google.com/file/d/1DLseeUmoF5s51mE9rBqw5Ijld4t8Epet/view?usp=drive_link",
-          "extra1": "extra_info_1"
-        },
-        {
-          "subject_code": "3130702",
-          "subject_name": "Data Structures",
-          "pages": "2",
-          "short_form": "DS",
-          "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_W2019.png",
           "pdf": "https://drive.google.com/file/d/1oxl071ZNOQn4-6WhemV7_iaWbglOiBG-/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -514,7 +492,7 @@
           "short_form": "DS",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_W2020.png",
           "pdf": "https://drive.google.com/file/d/1kgBzM2l4lx-N9hCA3aqxuJs10GrJhfbo/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -525,7 +503,7 @@
           "short_form": "DS",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/DS/DS_W2021.png",
           "pdf": "https://drive.google.com/file/d/12LFDlsbu7VRV_Tni_kvZbggOqQ9FzPR6/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -536,7 +514,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "SUMMER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_S2020.png",
           "pdf": "https://drive.google.com/file/d/1qOkfIY1Mfs_M3cSYjApUfRai7yv_NFAR/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -547,7 +525,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_S2021.png",
           "pdf": "https://drive.google.com/file/d/1sC3CFmmdfrwIrMTi2gZ3P_hjGxXNAMFt/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -558,7 +536,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_S2022.png",
           "pdf": "https://drive.google.com/file/d/1NWuUWQp4HswVDiTA53s0OIhzq3VtJmlc/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -569,7 +547,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_W2019.png",
           "pdf": "https://drive.google.com/file/d/1Zw1IcQzgKq_dB0k2mzq2QX8K8qclneDQ/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -580,7 +558,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_W2020.png",
           "pdf": "https://drive.google.com/file/d/1MrmiVgmofFsq9itEfWd35X90YHt0lVyg/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -591,7 +569,7 @@
           "short_form": "ETC",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/ETC/ETC_W2021.png",
           "pdf": "https://drive.google.com/file/d/1QHQx7KoDqMY3TMyHslevpK95ZsFepajy/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -602,7 +580,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "SUMMER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_S2020.png",
           "pdf": "https://drive.google.com/file/d/1wMvEYGbSm0XJllRucBrtVJWq6FdPySm7/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -613,7 +591,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_S2021.png",
           "pdf": "https://drive.google.com/file/d/1c_MwJ_jb78vESDuuq2JMpe21_GwUIzZO/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -624,7 +602,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_S2022.png",
           "pdf": "https://drive.google.com/file/d/14E-mbjykyKEicoMqMEUCnU-XRFud2-1i/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -635,7 +613,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_W2019.png",
           "pdf": "https://drive.google.com/file/d/1IyfAIqRb0PvRq7mAGSWfbfxi3EjNFxPg/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -646,7 +624,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_W2020.png",
           "pdf": "https://drive.google.com/file/d/1CNYLaEo7hdp0E0_bDpI_0cwcZSbmi5XH/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -657,7 +635,7 @@
           "short_form": "PAS",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/PAS/PAS_W2021.png",
           "pdf": "https://drive.google.com/file/d/1y_GVGqPcurxJv2tgoXzNlTbgzoKZKjOi/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -668,7 +646,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "SUMMER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_S2020.png",
           "pdf": "https://drive.google.com/file/d/1gDzDjDhVoMyC8egnWRl9UToBxmLWX127/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -679,7 +657,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "SUMMER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_S2021.png",
           "pdf": "https://drive.google.com/file/d/1RtZ1PLZR8x4ISy-itftBqkoCrg3fU-GM/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -690,7 +668,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "SUMMER 2022",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_S2022.png",
           "pdf": "https://drive.google.com/file/d/1I1uPIIkWu_rLGnbYJ99Q1Fge8F3A5HOl/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -701,7 +679,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "WINTER 2019",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_W2019.png",
           "pdf": "https://drive.google.com/file/d/13VRqgrfRwSNfoGHvtFhJr7aHM_ndok2I/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -712,7 +690,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "WINTER 2020",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_W2020.png",
           "pdf": "https://drive.google.com/file/d/1tuhEYABCyUOKRT8teLvkAXgL032HKkpB/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
@@ -723,7 +701,7 @@
           "short_form": "IC",
           "semester": "3",
           "year": "WINTER 2021",
-          "image": "",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_3/IC/IC_W2021.png",
           "pdf": "https://drive.google.com/file/d/1jx_Lore_3vGingK-sp8Ebd17GAm3Jr3D/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
