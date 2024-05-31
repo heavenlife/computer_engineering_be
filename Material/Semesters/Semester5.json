@@ -84,7 +84,7 @@
         }
       ],
       "Syllabus": [
-         {
+        {
           "subject_code": "3150703",
           "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
           "pages": "3",
@@ -140,20 +140,350 @@
         }
       ],
       "Papers": [
-         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "3",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1C43aiHfAtQqsA0M6J4aaVa2ymwv8tx0E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_W2021.png",
+          "pdf": "https://drive.google.com/file/d/1w_0RnzTgQjnAh0XvfeYfFHyWUSffPtI4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_W2020.png",
+          "pdf": "https://drive.google.com/file/d/1IOjJhzz_hQOfYt6hWMRueJCJC0s61eiQ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "WINTER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_W2017.png",
+          "pdf": "https://drive.google.com/file/d/1etjzZ2rzsuuun-PcMeZbGWzImONV_k5R/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "WINTER 2016",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_W2016.png",
+          "pdf": "https://drive.google.com/file/d/1HzkAWIbrll5qRoev3RZ6aj2KOy14Z5M7/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1dFJXxgPfxCS4LHAyqOh8BNG_LjyxlMhg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2017.png",
+          "pdf": "https://drive.google.com/file/d/1G_ymjZRDni8cVzPhp9Yx9bO9I5vRppeV/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2017.png",
+          "pdf": "https://drive.google.com/file/d/1z_kWwMRp8feZJGlBnFaiAALivI3y3dWe/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2018",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2018.png",
+          "pdf": "https://drive.google.com/file/d/1quONjjFI7xKEnU9c3hfDINnkVGTVIq8q/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
+          "pages": "2",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2017.png",
+          "pdf": "https://drive.google.com/file/d/1S8zPkKOA87uWohXUrHs9eW_YLrdJS7tD/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150703",
+          "subject_name": "Analysis and Design Of Algorithms",
           "pages": "1",
-          "short_form": "BCE", 
-          "semester": "3",
-          "year": "WINTER 2019",
-          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE_W2019.png",
-          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+          "short_form": "ADA",
+          "semester": "5",
+          "year": "SUMMER 2016",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_S2016.png",
+          "pdf": "https://drive.google.com/file/d/1yY3z573XzWpnXUiw-ulYZeeL7hjf9yJN/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "2",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1w_0RnzTgQjnAh0XvfeYfFHyWUSffPtI4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "1",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_W2021.png",
+          "pdf": "https://drive.google.com/file/d/1O7bMQqAPGhKME1znTjvaSZyrG17kvj_E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "1",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_W2020.png",
+          "pdf": "https://drive.google.com/file/d/1O7bMQqAPGhKME1znTjvaSZyrG17kvj_E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "1",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "WINTER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_W2017.png",
+          "pdf": "https://drive.google.com/file/d/1GHH9h5e6qZt6QtFFlwNtnQsxq874aMw7/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "1",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1t8-saWfi9Q8kwaDUtM7ZtR8L_cvTwVqk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "2",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_S2022.png",
+          "pdf": "https://drive.google.com/file/d/15QblXpYEF7xhMKVIyvRULQ5FTP7xA2Ah/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150710",
+          "subject_name": "Computer Networks",
+          "pages": "2",
+          "short_form": "CN",
+          "semester": "5",
+          "year": "SUMMER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CN/CN_S2021.png",
+          "pdf": "https://drive.google.com/file/d/12uebVqqemvD40mKlyhn69Mix12uTH-Sv/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1Dx5hPFJ-5ytMap2Z8tiW6BgPLF7cxWBn/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1O7bMQqAPGhKME1znTjvaSZyrG17kvj_E/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_W2020.png",
+          "pdf": "https://drive.google.com/file/d/1BAz8iheHtcxxPF34eAo9-DJanLug6s8n/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "WINTER 2017",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_W2017.png",
+          "pdf": "https://drive.google.com/file/d/1GHH9h5e6qZt6QtFFlwNtnQsxq874aMw7/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1t8-saWfi9Q8kwaDUtM7ZtR8L_cvTwVqk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_S2022.png",
+          "pdf": "https://drive.google.com/file/d/15QblXpYEF7xhMKVIyvRULQ5FTP7xA2Ah/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150004",
+          "subject_name": "Contributor Personality Development Program",
+          "pages": "6",
+          "short_form": "CPDP",
+          "semester": "5",
+          "year": "SUMMER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/CPDP/CPDP_S2021.png",
+          "pdf": "https://drive.google.com/file/d/12uebVqqemvD40mKlyhn69Mix12uTH-Sv/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1LeLDY-1bS99PzVdjcVEr5hOdD-vnL-wm/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_W2021.png",
+          "pdf": "https://drive.google.com/file/d/1k0PIsQ3ftmqJua29bUvqOlDXWD5bSm5L/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_W2020.png",
+          "pdf": "https://drive.google.com/file/d/1xmWXF838XhKHd2TATs84ZQUarmu28adU/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1t0JngGj-jmpSQWGqeT_RrnFaysAjJO0w/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_S2022.png",
+          "pdf": "https://drive.google.com/file/d/1eFn0K8RmEvE7AQzm8b0zBbYkp0af5fOr/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3150713",
+          "subject_name": "Python for Data Science",
+          "pages": "2",
+          "short_form": "PDS",
+          "semester": "5",
+          "year": "SUMMER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/PDS/PDS_S2021.png",
+          "pdf": "https://drive.google.com/file/d/1wDQUByrQwNQ0AoZskvZhORkCeG7a5AD8/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ],
       "PaperSolutions": [
-         {
+        {
           "subject_code": "3110004",
           "subject_name": "Basic Civil Engineering",
           "pages": "300",
