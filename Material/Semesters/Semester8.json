@@ -2,61 +2,137 @@
   "Semester": "8",
   "Material": [
     {
-      "Books": [
+      "Project": [
         {
-          "subject_code": "3150703",
-          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
-          "pages": "361",
-          "short_form": "ADA",
-          "semester": "5",
-          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA.png",
-          "pdf": "https://drive.google.com/file/d/1wY2Hq_8OV7SR8Yt82q3z6OUx0tfyaxL5/view?usp=drive_link",
+          "subject_code": "3180701",
+          "title": "Bank Management Systems",
+          "language": "React JS",
+          "pages": "52",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1Y955eqKQ1YNE9VKe5vg0ET4SMngMGhQw/view?usp=drive_link",
           "extra1": "extra_info_1"
-        }
-      ],
-      "ImpQuestion": [
+        },
         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
-          "pages": "300",
-          "semester": "3",
-          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+          "subject_code": "3180701",
+          "title": "Furnishzingrms",
+          "language": "PHP",
+          "pages": "52",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1kKuosLKfJ7zAAkBbExk1LhM4lQtHXSSY/view?usp=drive_link",
           "extra1": "extra_info_1"
-        }
-      ],
-      "Syllabus": [
-         {
-          "subject_code": "3150703",
-          "subject_name": "ANALYSIS AND DESIGN OF ALGORITHMS",
-          "pages": "3",
-          "semester": "5",
-          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/ADA/ADA_Syllabus.png",
-          "pdf": "https://drive.google.com/file/d/1iiR7_RsI9n1cCz6tmianpuZUaagQ2qk2/view?usp=drive_link",
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Kick Card",
+          "language": "Python",
+          "pages": "57",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/17pCHkN0WbsZCO_aPIuhtISAcq16D-S5P/view?usp=drive_link",
           "extra1": "extra_info_1"
-        }
-      ],
-      "Papers": [
-         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
-          "pages": "1",
-          "short_form": "BCE", 
-          "semester": "3",
-          "year": "WINTER 2019",
-          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester1_2/BCE/BCE_W2019.png",
-          "pdf": "https://drive.google.com/file/d/1feh8JxaEGm0fo0xEi_7LLU8QlcCvwGqj/view?usp=drive_link",
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Restaurant Website",
+          "language": "React JS",
+          "pages": "52",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1ZukuZA8GogiTf5c5Zbiap2OKwqBG-nGJ/view?usp=drive_link",
           "extra1": "extra_info_1"
-        }
-      ],
-      "PaperSolutions": [
-         {
-          "subject_code": "3110004",
-          "subject_name": "Basic Civil Engineering",
-          "pages": "300",
-          "semester": "3",
-          "image": "https://drive.google.com/file/d/1V_BrzrjaPPDgoDKY99lWwHjiAVacNWOT/view?usp=drive_link",
-          "pdf": "https://drive.google.com/file/d/1wtc2hUwepUrkDBQ5ZLgW0JOCPpOfBesC/view?usp=drive_link",
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Sarve Sikdha Abhiyan",
+          "language": "Android",
+          "pages": "44",
+          "semester": "8",
+          "year": "2022",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1cTlvEY2fbjiz90lLIsx18XZawFrfHSUF/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Vacation Rental Management System",
+          "language": "Android",
+          "pages": "42",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1kwlIRrZF7jO9l6_waoY-a4kdNQbHOOO0/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Business Directory",
+          "language": "PHP",
+          "pages": "52",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/15LkVGcmB2xlXCUcBoVzLB1koz3B-dHb7/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Entitled Skylon",
+          "language": "Node Js",
+          "pages": "47",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1rL73-RAX8iHIfhOdJH8UdmyAbzem2RSH/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Saas Platform for Ayurveda Doctors",
+          "language": "Android",
+          "pages": "48",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1gAOdRHnspCPNqFgH8B77TgMD0iaeiYn3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Smart Cafe",
+          "language": "Java",
+          "pages": "59",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1gEUFYwoGxFgtIcvyAnX9V6iHADv8Dk3N/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "To-do-list Schedule Planner",
+          "language": "Android",
+          "pages": "56",
+          "semester": "8",
+          "year": "2023",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1HPjci8MWhEzwbC7PJS2Vli7mIMhRap-W/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3180701",
+          "title": "Venue finder and booking",
+          "language": "Node Js",
+          "pages": "50",
+          "semester": "8",
+          "year": "2022",
+          "image": "",
+          "pdf": "https://drive.google.com/file/d/1WpNjMkGqGaIWUbMewXNsNz7-GdMBF58a/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ]
