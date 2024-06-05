@@ -3,10 +3,132 @@
   "Material": [
     {
       "Books": [
+        {
+          "subject_code": "3160714",
+          "subject_name": "DATA MINING",
+          "pages": "65",
+          "short_form": "DM",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DM/DM.jpg",
+          "pdf": "https://drive.google.com/file/d/1zm87xpf0_sEBXxzxM2T4QqFqz-ibPFOz/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160717",
+          "subject_name": "DATA VISUALIZATION",
+          "pages": "132",
+          "short_form": "DV",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DV/DV.jpg",
+          "pdf": "https://drive.google.com/file/d/1WlMEVpA9Q45iLwI2B4cZT-MkGOB66jug/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160716",
+          "subject_name": "IOT and Applications",
+          "pages": "128",
+          "short_form": "IOT",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/IOT/IOT.png",
+          "pdf": "https://drive.google.com/file/d/1h9I1f7P-zWT93JeWJMPybdiq7_o3nLbS/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "607",
+          "short_form": "MPI",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI.jpg",
+          "pdf": "https://drive.google.com/file/d/1ajviweg7b3aAuoTERdldpjqQIL1KaU__/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160715",
+          "subject_name": "SYSTEM SOFTWARE",
+          "pages": "537",
+          "short_form": "SS",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/SS/SS.jpg",
+          "pdf": "https://drive.google.com/file/d/1ajviweg7b3aAuoTERdldpjqQIL1KaU__/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ],
       "ImpQuestion": [
       ],
       "Syllabus": [
+        {
+          "subject_code": "3160707",
+          "subject_name": "Advance java Programming",
+          "pages": "4",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/AJP/AJP_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1xdiol6O7o5ayjxBt554s-d22ZYtmfg1W/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160714",
+          "subject_name": "DATA MINING",
+          "pages": "2",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DM/DM_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1jvLTg0rLPccsDzBYcS5YMWyksfOBI6gG/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160717",
+          "subject_name": "DATA VISUALIZATION",
+          "pages": "3",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DV/DV_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1EL3OI_wMgqmi6eUXOGtzHHS3PexgWbgY/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160716",
+          "subject_name": "IOT and Applications",
+          "pages": "2",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/IOT/IOT_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1NRKdvmgmdvnQQNquj0dGsOKtK5oQAEFZ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "4",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1RZyvittH6QpmJpMwVneJg1UBGCB9Utka/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160715",
+          "subject_name": "SYSTEM SOFTWARE",
+          "pages": "3",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/SS/SS_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1bl4CwT3IDRFr0OqsxnO4rEyFapta9k4N/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "3",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/1JlbVoGv2o0CfPYSM722-qWTUttSXpc5y/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160713",
+          "subject_name": "WEB Programming",
+          "pages": "3",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/WP/WP_Syllabus.png",
+          "pdf": "https://drive.google.com/file/d/17t2OscpkY2PT6uqGGfNaXP9qJsyrsuO4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ],
       "Papers": [
       ],
