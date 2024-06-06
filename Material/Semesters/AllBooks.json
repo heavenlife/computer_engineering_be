@@ -320,6 +320,166 @@
       "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_5/SE/SE.jpeg",
       "pdf": "https://drive.google.com/file/d/1VIvq_vD_ZmcXDtF4bvb-l6L9yA92cUJ9/view?usp=drive_link",
       "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3160714",
+      "subject_name": "DATA MINING",
+      "pages": "65",
+      "short_form": "DM",
+      "semester": "6",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DM/DM.jpg",
+      "pdf": "https://drive.google.com/file/d/1zm87xpf0_sEBXxzxM2T4QqFqz-ibPFOz/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3160717",
+      "subject_name": "DATA VISUALIZATION",
+      "pages": "132",
+      "short_form": "DV",
+      "semester": "6",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/DV/DV.jpg",
+      "pdf": "https://drive.google.com/file/d/1WlMEVpA9Q45iLwI2B4cZT-MkGOB66jug/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3160716",
+      "subject_name": "IOT and Applications",
+      "pages": "128",
+      "short_form": "IOT",
+      "semester": "6",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/IOT/IOT.png",
+      "pdf": "https://drive.google.com/file/d/1h9I1f7P-zWT93JeWJMPybdiq7_o3nLbS/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3160712",
+      "subject_name": "MICROPROCESSOR AND INTERFACING",
+      "pages": "607",
+      "short_form": "MPI",
+      "semester": "6",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI.jpg",
+      "pdf": "https://drive.google.com/file/d/1ajviweg7b3aAuoTERdldpjqQIL1KaU__/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3160715",
+      "subject_name": "SYSTEM SOFTWARE",
+      "pages": "537",
+      "short_form": "SS",
+      "semester": "6",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/SS/SS.jpg",
+      "pdf": "https://drive.google.com/file/d/1Y7tBCJEdtufmj9emjgnOfwAABs4fOSDH/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170716",
+      "subject_name": "Artificial Intelligence",
+      "pages": "362",
+      "short_form": "AI",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/AI/AI.png",
+      "pdf": "https://drive.google.com/file/d/19hxViWjLta_oDSgvUyD_0I0sx1pVlvtv/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170722",
+      "subject_name": "BIG DATA ANALYTICS",
+      "pages": "121",
+      "short_form": "BDA",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/BDA/BDA.png",
+      "pdf": "https://drive.google.com/file/d/1g_PeFg9jnQRUrfAoQMx4u4Dkl74LJ5Aq/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170717",
+      "subject_name": "CLOUD COMPUTING",
+      "pages": "141",
+      "short_form": "CC",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/CC/CC.jpg",
+      "pdf": "https://drive.google.com/file/d/1fwKCO-JQSVsjLXfGLPdvf3FXHgAi3QXz/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170701",
+      "subject_name": "Compiler Design",
+      "pages": "238",
+      "short_form": "CD",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/CD/CD.png",
+      "pdf": "https://drive.google.com/file/d/1AFkDcTvflC8nKIf-Hro7ZbDrzzD5G0sK/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170719",
+      "subject_name": "Distributed System",
+      "pages": "137",
+      "short_form": "DS",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/DS/DS.jpg",
+      "pdf": "https://drive.google.com/file/d/1TOYlH2aB0OdjkDgEnbfICX1oqA7pJyx4/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170718",
+      "subject_name": "INFORMATION RETRIEVAL",
+      "pages": "172",
+      "short_form": "IR",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/IR/IR.png",
+      "pdf": "https://drive.google.com/file/d/1IcWkX8Ajm3Vg3pNsgtFmln4zhh2g-5je/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170720",
+      "subject_name": "Information Security",
+      "pages": "233",
+      "short_form": "IS",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/IS/IS.jpg",
+      "pdf": "https://drive.google.com/file/d/1__PRrZG4EKxfMcok2-y0yzgqmt7fP7n6/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170726",
+      "subject_name": "Mobile Application Development",
+      "pages": "129",
+      "short_form": "MAD",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/MAD/MAD.png",
+      "pdf": "https://drive.google.com/file/d/1v-cpaSJkJkOH8GWxVBrPUtDMqdZ5xB9F/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170710",
+      "subject_name": "MOBILE COMPUTING AND WIRELESS COMMUNICATION",
+      "pages": "127",
+      "short_form": "MCWC",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/MCWC/MCWC.jpg",
+      "pdf": "https://drive.google.com/file/d/1ZrEADZCHkr239kFhKgq2rYbGm5KCbkPV/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170724",
+      "subject_name": "Machine Learning",
+      "pages": "297",
+      "short_form": "ML",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/ML/ML.jpg",
+      "pdf": "https://drive.google.com/file/d/1OYmqr5_SFXUnCEwAMMftHDTdvZQjK1rF/view?usp=drive_link",
+      "extra1": "extra_info_1"
+    },
+    {
+      "subject_code": "3170723",
+      "subject_name": "Natural Language Processing",
+      "pages": "110",
+      "short_form": "NLP",
+      "semester": "7",
+      "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_7/NLP/NLP.png",
+      "pdf": "https://drive.google.com/file/d/1r25H3vh7q02iXtNy8sC4ONYGXmV2Qvq5/view?usp=drive_link",
+      "extra1": "extra_info_1"
     }
   ]
 }
