@@ -211,6 +211,171 @@
       "Papers": [
       ],
       "PaperSolutions": [
+        {
+          "subject_code": "3170716",
+          "subject_name": "Artificial Intelligence",
+          "pages": "20",
+          "short_form": "AI",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1xZJcL42Bo9Zv97_QR2qE22JP0IMMYOkg/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170722",
+          "subject_name": "Big Data Analytics",
+          "pages": "27",
+          "short_form": "BDA",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1qymaBe6RCKQg5Ww5qeODiGL5MaQRc1Qi/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170722",
+          "subject_name": "Big Data",
+          "pages": "30",
+          "short_form": "BD",
+          "semester": "7",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/14ZMy1CWyICWSkxHHRHHubpDBCAgAWUUD/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170701",
+          "subject_name": "Compiler Design",
+          "pages": "31",
+          "short_form": "CD",
+          "semester": "7",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1Rt3yIiZdZumySYrvAGLYBkSDkDf7JC6K/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170701",
+          "subject_name": "Compiler Design",
+          "pages": "30",
+          "short_form": "CD",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/10kP42DQBD2YeE5KhWCbdA19fJVy5zOjF/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170720",
+          "subject_name": "Information Network Security",
+          "pages": "36",
+          "short_form": "IS",
+          "semester": "7",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1X4OdaE4NWBm3RpDbKDkMc-d88uSpjUbp/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170720",
+          "subject_name": "Information Network Security",
+          "pages": "27",
+          "short_form": "IS",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1FdyDbD1e1pePJbOa4kJ6cp1EOTL9mcIc/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170726",
+          "subject_name": "Mobile Application Devlopment",
+          "pages": "47",
+          "short_form": "MAD",
+          "semester": "7",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1dnceyMOSEPHnisE9EgUHBB906bACA1jI/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170726",
+          "subject_name": "Mobile Application Devlopment",
+          "pages": "30",
+          "short_form": "MAD",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1no6I9Vry33ki2uXq155s81XgPg1bbOak/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170726",
+          "subject_name": "Mobile Application Devlopment",
+          "pages": "40",
+          "short_form": "MAD",
+          "semester": "7",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1ahFNbNAkkY3CUe64iJAyRLc7JZMLZJq8/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170710",
+          "subject_name": "Mobile Computing & Wireless Communication",
+          "pages": "35",
+          "short_form": "MCWC",
+          "semester": "7",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1bsbLwbvKBEilVSiQ4VnQgf1DL4vsb_NW/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170710",
+          "subject_name": "Mobile Computing & Wireless Communication",
+          "pages": "38",
+          "short_form": "MCWC",
+          "semester": "7",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1gSGRjfCvZr4LU6B10P_fUtiH0C6ocTrj/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170710",
+          "subject_name": "Mobile Computing & Wireless Communication",
+          "pages": "28",
+          "short_form": "MCWC",
+          "semester": "7",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1M3h_H_VDs5Pq1KlmJHyLBtr301MfHAGp/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170724",
+          "subject_name": "Machine Learning",
+          "pages": "24",
+          "short_form": "ML",
+          "semester": "7",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1yBtNF3dcR8vOZ5dyfkBvbw5PWl4JAuC4/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170724",
+          "subject_name": "Machine Learning",
+          "pages": "24",
+          "short_form": "ML",
+          "semester": "7",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Solution_Image.png",
+          "pdf": "https://drive.google.com/file/d/1z-OTNMahRFVjZunU7OyeOLX5xkxAY4Qr/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ]
     }
   ]
