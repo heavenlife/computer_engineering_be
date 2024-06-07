@@ -384,7 +384,6 @@
           "pdf": "https://drive.google.com/file/d/1pGZ4Sk-g-aUhjfk3wuEcjNG1JqEDZ-fD/view?usp=drive_link",
           "extra1": "extra_info_1"
         },
-
         {
           "subject_code": "3160716",
           "subject_name": "IOT and Applications",
@@ -493,6 +492,94 @@
           "year": "SUMMER 2017",
           "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/IOT/IOT_S2017.png",
           "pdf": "https://drive.google.com/file/d/1nxgY683D4V7Sw-IhE-2Pg3yyfIQrkZBE/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "WINTER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_W2023.png",
+          "pdf": "https://drive.google.com/file/d/11R0smH2g5bFbRJIgUnq44vbnQTg-x0eH/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "3",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1zXk_y0Gt-pYmlT_5bJZHl5pR8Jk6vxSt/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_W2021.png",
+          "pdf": "https://drive.google.com/file/d/1vgcArzdRl2w4-W8ChQELtDzpAdTLuPoZ/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "WINTER 2020",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_W2020.png",
+          "pdf": "https://drive.google.com/file/d/1_kkZc0Cc1yKhmXiEfVTxY72UlWxKt2Ui/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "WINTER 2019",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_W2019.png",
+          "pdf": "https://drive.google.com/file/d/1eKnXn0Irz4FteLdQjJ-y3ju8CHnCZU4O/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1aCPw19-DZrZRhNdJkJJ1xf9gMtVUQIPM/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_S2022.png",
+          "pdf": "https://drive.google.com/file/d/1mItWFeX2kWkaYf3JvZcCQACbYk83Ryus/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "2",
+          "short_form": "MPI",
+          "semester": "6",
+          "year": "SUMMER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/MPI/MPI_S2021.png",
+          "pdf": "https://drive.google.com/file/d/157D4KbQLmjvztA6ixjXDnt9pC-Ofi5gf/view?usp=drive_link",
           "extra1": "extra_info_1"
         }
       ],
