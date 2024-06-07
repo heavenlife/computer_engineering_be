@@ -702,6 +702,72 @@
           "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/SS/SS_S2018.png",
           "pdf": "https://drive.google.com/file/d/1HZN1MqqO1hijT83_1cOWUpR9ir1-XYr9/view?usp=drive_link",
           "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "3",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "WINTER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_W2023.png",
+          "pdf": "https://drive.google.com/file/d/1_gP4tpGzk6HLnsp1t9POVCOHgWsM0-p8/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "2",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "WINTER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_W2022.png",
+          "pdf": "https://drive.google.com/file/d/1pVe9m87Yl3r0OUvj786Gjmu1aacLaNhk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "2",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "WINTER 2021",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_W2021.png",
+          "pdf": "https://drive.google.com/file/d/1il3bN_zqMMUZ1bya9yqTG0sFdrF5gSl6/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "3",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "WINTER 2018",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_W2018.png",
+          "pdf": "https://drive.google.com/file/d/1cUsHlnz8v-q9oZn0Eo3_zJZOEecIOb4-/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "2",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "SUMMER 2023",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_S2023.png",
+          "pdf": "https://drive.google.com/file/d/1FlU6qQSduIbXwBAOH_CFYBcdULHRzEyX/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "2",
+          "short_form": "TOC",
+          "semester": "6",
+          "year": "SUMMER 2022",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/Semester_6/TOC/TOC_S2022.png",
+          "pdf": "https://drive.google.com/file/d/18-JeXtFDIR4-OFnsfKVMwuENDCh4FV6M/view?usp=drive_link",
+          "extra1": "extra_info_1"
         }
       ],
       "PaperSolutions": [
