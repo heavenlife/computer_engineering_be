@@ -55,6 +55,69 @@
         }
       ],
       "ImpQuestion": [
+        {
+          "subject_code": "3160707",
+          "subject_name": "Advance java Programming",
+          "pages": "8",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1VSTi_OS5sOsowcC3Prmbf32UJBwqXTkd/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160714",
+          "subject_name": "DATA MINING",
+          "pages": "8",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/17XX9EmtDlivtZ7humGNmtRCT-RUPsMeu/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160717",
+          "subject_name": "DATA VISUALIZATION",
+          "pages": "2",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1Q7HudTo4gmBq17eJ78koVqtTfrhQQdoh/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160716",
+          "subject_name": "IOT and Applications",
+          "pages": "23",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1onSP3rFDdGaSa6OvkCOkVJ24hCnLGKJk/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160712",
+          "subject_name": "MICROPROCESSOR AND INTERFACING",
+          "pages": "5",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1C7S_iPF0wl0IdcHLTPn5OQdDdP40Qhk-/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160704",
+          "subject_name": "THEORY OF COMPUTATION",
+          "pages": "11",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1YTzsFFYW2fu_cvaF6qm-eyUBC4NBQNCh/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3160713",
+          "subject_name": "WEB Programming",
+          "pages": "16",
+          "semester": "6",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1hN8eyhmFPxbGFIBIJ4E6e5ToTssDr4FB/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ],
       "Syllabus": [
         {
