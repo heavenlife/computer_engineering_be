@@ -115,6 +115,69 @@
         }
       ],
       "ImpQuestion": [
+        {
+          "subject_code": "3170716",
+          "subject_name": "Artificial Intelligence",
+          "pages": "4",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1ZxUi57trPRYLvk_Q-B7WlueWHeg7NYhc/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170722",
+          "subject_name": "BIG DATA ANALYTICS",
+          "pages": "2",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1TX6d5cIcbIl77RxK9AxvfzuhD0oyB3f3/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170701",
+          "subject_name": "Compiler Design",
+          "pages": "6",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1axl7siAxOeJ-2WKsZ4dBYIJmD3Kux2nr/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170720",
+          "subject_name": "Information Security",
+          "pages": "5",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1hEzTq-jR9qUe-Hz5d5psFNKyCYC4u_TH/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170726",
+          "subject_name": "Mobile Application Development",
+          "pages": "1",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1MCGKZqi_NnWJd6UJBpMWdcgZAd0sAYAN/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170710",
+          "subject_name": "MOBILE COMPUTING AND WIRELESS COMMUNICATION",
+          "pages": "6",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/10ZRphfzin-aKoZSbwyIlQwaxxpFik3dP/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        },
+        {
+          "subject_code": "3170724",
+          "subject_name": "Machine Learning",
+          "pages": "5",
+          "semester": "7",
+          "image": "https://heavenlife.github.io/computer_engineering_be/Material/Semesters/IMP_Image.png",
+          "pdf": "https://drive.google.com/file/d/1_pr4S7WimmY02e-mqV-0UuJNuKRmNyjB/view?usp=drive_link",
+          "extra1": "extra_info_1"
+        }
       ],
       "Syllabus": [
         {
